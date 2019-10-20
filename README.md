@@ -6,7 +6,7 @@
     2. Brian Rothschild - programmer 
       3. James Sigler - design/support
   
-  3)Hello
+![3) Before](https://i.imgur.com/vntOOMv.png)
 
   
   

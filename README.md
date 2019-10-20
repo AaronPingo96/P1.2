@@ -5,9 +5,11 @@
    1. Aaron Pingo - Team leader/design/support
    2. Brian Rothschild - programmer 
    3. James Sigler - design/support
-## 3) Before 
+## 3) 
+## Before 
 ![Before](https://i.imgur.com/vntOOMv.png)
-
+## After
+![After](https://i.imgur.com/ICsh8dA.png)
   
   
 ## 4) 

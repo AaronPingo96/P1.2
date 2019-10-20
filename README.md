@@ -8,9 +8,11 @@
 ## 3) 
 ## Before 
 ![Before](https://i.imgur.com/vntOOMv.png)
+
+Screen for when the user first steps infron the the mirror
 ## After
 ![After](https://i.imgur.com/ICsh8dA.png)
-  
+ When widgets are pressed and full functions are revealed and accessible by the user
   
 ## 4) 
    The project is in the early stages of development at this time and is not anywhere near operational

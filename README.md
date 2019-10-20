@@ -1,10 +1,10 @@
 # Project1
 
 
-2) Team members and duties
+## 2) Team members and duties
    1. Aaron Pingo - Team leader/design/support
-    2. Brian Rothschild - programmer 
-      3. James Sigler - design/support
+   2. Brian Rothschild - programmer 
+   3. James Sigler - design/support
 ## 3) Before 
 ![3) Before](https://i.imgur.com/vntOOMv.png)
 

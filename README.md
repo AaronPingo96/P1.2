@@ -9,7 +9,7 @@
 ## Before 
 ![Before](https://i.imgur.com/vntOOMv.png)
 
-Screen for when the user first steps infront the the mirror
+Screen for when the user first steps infront the mirror
 ## After
 ![After](https://i.imgur.com/ICsh8dA.png)
  When widgets are pressed and full functions are revealed and accessible by the user

@@ -9,10 +9,10 @@
 ## Before 
 ![Before](https://i.imgur.com/vntOOMv.png)
 
-Screen for when the user first steps infront the mirror
+Screen for when the user first steps infront the mirror. This is the screen that the user will be presented with when they first use the mirror. From here they can access the rest of the functions by clicking on any of the widgets.
 ## After
 ![After](https://i.imgur.com/ICsh8dA.png)
- When widgets are pressed and full functions are revealed and accessible by the user
+ When widgets are pressed and full functions are revealed and accessible by the user. Things that are reveald are functions such as being able to write texts, recording video and taking pictures. you will also be able to zoom when clicking on the magnifying glass and if you press the settings button you will be able to change the layout of the widgets and other things.
   
 ## 4) 
    The project is in the early stages of development at this time and is not anywhere near operational

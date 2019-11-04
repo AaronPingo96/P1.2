@@ -28,4 +28,6 @@ Screen for when the user first steps infront the mirror. This is the screen that
 
 ![Picture](https://i.imgur.com/eTuaKKR.png)
 
+Our plan from the beginning was to go for simplicity while still having a reason to have a smart mirror.
+
 

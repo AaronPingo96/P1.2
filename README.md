@@ -26,4 +26,4 @@ Screen for when the user first steps infront the mirror. This is the screen that
 
 ## Mirror GIF:
 
-![GIF](https://imgur.com/5PxzpBN)
+![GIF](https://i.imgur.com/eTuaKKR.png)

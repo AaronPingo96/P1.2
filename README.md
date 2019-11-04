@@ -24,6 +24,8 @@ Screen for when the user first steps infront the mirror. This is the screen that
 
 # Project Phase:
 
-## Mirror GIF:
+##    Mirror Picture:
 
-![GIF](https://i.imgur.com/eTuaKKR.png)
+![Picture](https://i.imgur.com/eTuaKKR.png)
+
+

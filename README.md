@@ -1,6 +1,6 @@
-# Project1
+# Project 1
 
-
+## Sketch:
 ## 1) Team members and duties
    1. Aaron Pingo - Team leader/design/support
    2. Brian Rothschild - programmer 
